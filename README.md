@@ -1,2 +1,0 @@
-# IMJIE
-NSString *string = @"IMJIE";
